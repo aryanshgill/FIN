@@ -1,25 +1,36 @@
-import logo from './logo.svg';
-import './App.css';
+// import React from 'react'
+// import { OperationComp } from './component/operationsComponent'
+// import { OneStopSolution } from './component/oneStopSolution'
+// import {Header}  from './layout/header'
+// import { Footer } from './layout/footer'
+// import { Request } from './component/requestDemo'
+// // import { ReviewComp } from './component/reviewComp'
+// import { Provide } from './component/weProvide'
+// import { AI } from './component/aiComponent'
+// // import { TrustedBrands } from './component/trustedBrands'
+// function App() {
+//   return (
+//     <>
+//     <Header/>
+//     <Request/>
+//     <AI/>
+//     <Provide/>
+//     <OperationComp/>
+//     {/* <TrustedBrands/> */}
+//     <OneStopSolution/>
+//     {/* <ReviewComp/> */}
+//     <Footer/>
+//     </>
+//   )
+// }
+
+// export default Apprfce
+import React from 'react'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <div>App</div>
+  )
 }
 
-export default App;
+export default App
